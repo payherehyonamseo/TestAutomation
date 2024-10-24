@@ -17,6 +17,7 @@ behave-pytest==0.1.1
 behave-to-cucumber==0.1.9
 behave2cucumber==1.0.3
 behave2cucumber-py3==1.0.4
+bs4==0.0.2
 certifi==2023.11.17
 cffi==1.17.1
 charset-normalizer==3.4.0
